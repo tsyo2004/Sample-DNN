@@ -1,0 +1,6 @@
+model_checkpoint_path: "Final"
+all_model_checkpoint_paths: "train_data-5096"
+all_model_checkpoint_paths: "train_data-5097"
+all_model_checkpoint_paths: "train_data-5098"
+all_model_checkpoint_paths: "train_data-5099"
+all_model_checkpoint_paths: "Final"
