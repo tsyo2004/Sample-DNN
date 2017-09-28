@@ -1,0 +1,6 @@
+model_checkpoint_path: "Final"
+all_model_checkpoint_paths: "train_data-1996"
+all_model_checkpoint_paths: "train_data-1997"
+all_model_checkpoint_paths: "train_data-1998"
+all_model_checkpoint_paths: "train_data-1999"
+all_model_checkpoint_paths: "Final"
